@@ -1,4 +1,8 @@
-#sp{
+.before{
+	color:red;
+	font-size:large;
+}
+.after{
 	color:red;
 	font-size:large;
 }
