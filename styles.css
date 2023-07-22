@@ -1,8 +1,10 @@
-.before{
+div::before {
+	content: "Before Element ";
 	color:red;
 	font-size:large;
 }
-.after{
+div::after{
+	content:"After Element";
 	color:red;
 	font-size:large;
 }
