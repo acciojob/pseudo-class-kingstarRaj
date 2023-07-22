@@ -1,5 +1,5 @@
 div::before {
-	content: "Before Element ";
+	content: "Before Element";
 	color:red;
 	font-size:large;
 }
